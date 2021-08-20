@@ -4,9 +4,10 @@ This example features how you use a different styling solution than [styled-jsx]
 
 For this purpose we are extending the `<Document />` and injecting the server side rendered styles into the `<head>`, and also adding the `babel-plugin-styled-components` (which is required for server side rendering). Additionally we set up a global [theme](https://www.styled-components.com/docs/advanced#theming) for styled-components using NextJS custom [`<App>`](https://nextjs.org/docs/advanced-features/custom-app) component.
 
-## Alura
+## Attention!!!
 
-Project developed during the "React Alura immersion"
+
+Project developed during the "React Alura immersion", many of the features were not implemented, the project aims to learn React and Styled components
 
 ## Preview
 
