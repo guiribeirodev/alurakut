@@ -7,7 +7,7 @@ For this purpose we are extending the `<Document />` and injecting the server si
 ## Attention!!!
 
 
-Project developed during the "React Alura immersion", many of the features were not implemented, the project aims to learn React and Styled components
+Project developed during the "React Alura immersion", many of the features were not implemented, the project aims to learn React and Styled components !!!
 
 ## Preview
 
